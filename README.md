@@ -6,6 +6,8 @@ It runs on Android tablets and Windows PCs from a single C# codebase.
 > The source code is private because this is a commercial product. I'm happy to give
 > reviewers read access or walk through the code on a call, so feel free to reach out.
 
+![Dashboard](screenshots/dashboard.png)
+
 ---
 
 ## Why I built it
@@ -14,6 +16,24 @@ Small cafes in the Philippines need a POS that keeps working when the internet d
 handles local rules like the 12% VAT, Senior Citizen/PWD discounts, and BIR receipt
 wording, and runs on an affordable Android tablet. DevPOS is built for that. Every sale,
 receipt, and report works with no internet at all.
+
+## Screenshots
+
+**Order screen**: menu with delivery-app pricing (GrabFood +25%), stock badges, and the cart
+
+![Order screen](screenshots/order.png)
+
+**Checkout**: Senior/PWD discounts, dine-in table picker, quick cash buttons, and split bill
+
+![Checkout](screenshots/checkout.png)
+
+**Inventory**: ingredient stock with low/out alerts, suppliers, and a reorder list
+
+![Inventory](screenshots/inventory.png)
+
+**Reports**: best sellers with per-item sales goals, service charge share, and delivery channels
+
+![Reports](screenshots/reports.png)
 
 ## Features
 
